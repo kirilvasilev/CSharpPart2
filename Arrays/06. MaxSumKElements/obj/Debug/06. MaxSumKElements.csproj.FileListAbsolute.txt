@@ -1,0 +1,6 @@
+D:\Lections\Homework 1 Part II\06. MaxSumKElements\bin\Debug\_06.MaxSumKElements.exe.config
+D:\Lections\Homework 1 Part II\06. MaxSumKElements\bin\Debug\_06.MaxSumKElements.exe
+D:\Lections\Homework 1 Part II\06. MaxSumKElements\bin\Debug\_06.MaxSumKElements.pdb
+D:\Lections\Homework 1 Part II\06. MaxSumKElements\obj\Debug\_06.MaxSumKElements.exe
+D:\Lections\Homework 1 Part II\06. MaxSumKElements\obj\Debug\_06.MaxSumKElements.pdb
+D:\Lections\Homework 1 Part II\06. MaxSumKElements\obj\Debug\06. MaxSumKElements.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\Lections\Homework 2 CSharp Part II\01. PrintMatrix\bin\Debug\_01.PrintMatrix.exe.config
+D:\Lections\Homework 2 CSharp Part II\01. PrintMatrix\bin\Debug\_01.PrintMatrix.exe
+D:\Lections\Homework 2 CSharp Part II\01. PrintMatrix\bin\Debug\_01.PrintMatrix.pdb
+D:\Lections\Homework 2 CSharp Part II\01. PrintMatrix\obj\Debug\01. PrintMatrix.csprojResolveAssemblyReference.cache
+D:\Lections\Homework 2 CSharp Part II\01. PrintMatrix\obj\Debug\_01.PrintMatrix.exe
+D:\Lections\Homework 2 CSharp Part II\01. PrintMatrix\obj\Debug\_01.PrintMatrix.pdb

@@ -1,0 +1,6 @@
+D:\Lections\Homework 1 Part II\04. MaxSequenceOfEqualElements\bin\Debug\_04.MaxSequenceOfEqualElements.exe.config
+D:\Lections\Homework 1 Part II\04. MaxSequenceOfEqualElements\bin\Debug\_04.MaxSequenceOfEqualElements.exe
+D:\Lections\Homework 1 Part II\04. MaxSequenceOfEqualElements\bin\Debug\_04.MaxSequenceOfEqualElements.pdb
+D:\Lections\Homework 1 Part II\04. MaxSequenceOfEqualElements\obj\Debug\04. MaxSequenceOfEqualElements.csprojResolveAssemblyReference.cache
+D:\Lections\Homework 1 Part II\04. MaxSequenceOfEqualElements\obj\Debug\_04.MaxSequenceOfEqualElements.exe
+D:\Lections\Homework 1 Part II\04. MaxSequenceOfEqualElements\obj\Debug\_04.MaxSequenceOfEqualElements.pdb

@@ -1,0 +1,1 @@
+D:\Lections\Homework 3 CSharp Part II\Methods\12. SubtractionAndMultiplicationOfPolynomials\bin\Debug\_12.SubtractionAndMultiplicationOfPolynomials.exe.config

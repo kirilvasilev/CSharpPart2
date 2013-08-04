@@ -1,0 +1,1 @@
+D:\Lections\Homework 3 CSharp Part II\Methods\06. IndexOfElementInArrayBiggerThanNeighbour\bin\Debug\_06.IndexOfElementInArrayBiggerThanNeighbour.exe.config

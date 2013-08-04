@@ -1,0 +1,5 @@
+D:\Lections\Homework 2 CSharp Part II\05. SortStringArray\bin\Debug\_05.SortStringArray.exe.config
+D:\Lections\Homework 2 CSharp Part II\05. SortStringArray\bin\Debug\_05.SortStringArray.exe
+D:\Lections\Homework 2 CSharp Part II\05. SortStringArray\bin\Debug\_05.SortStringArray.pdb
+D:\Lections\Homework 2 CSharp Part II\05. SortStringArray\obj\Debug\_05.SortStringArray.exe
+D:\Lections\Homework 2 CSharp Part II\05. SortStringArray\obj\Debug\_05.SortStringArray.pdb

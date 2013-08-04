@@ -1,0 +1,1 @@
+D:\Lections\Homework 1 Part II\MaxIncreasingSequenceInArray\bin\Debug\MaxIncreasingSequenceInArray.exe.config

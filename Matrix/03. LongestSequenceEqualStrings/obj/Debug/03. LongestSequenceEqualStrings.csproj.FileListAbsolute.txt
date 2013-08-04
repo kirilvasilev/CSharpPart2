@@ -1,0 +1,5 @@
+D:\Lections\Homework 2 CSharp Part II\03. LongestSequenceEqualStrings\bin\Debug\_03.LongestSequenceEqualStrings.exe.config
+D:\Lections\Homework 2 CSharp Part II\03. LongestSequenceEqualStrings\bin\Debug\_03.LongestSequenceEqualStrings.exe
+D:\Lections\Homework 2 CSharp Part II\03. LongestSequenceEqualStrings\bin\Debug\_03.LongestSequenceEqualStrings.pdb
+D:\Lections\Homework 2 CSharp Part II\03. LongestSequenceEqualStrings\obj\Debug\_03.LongestSequenceEqualStrings.exe
+D:\Lections\Homework 2 CSharp Part II\03. LongestSequenceEqualStrings\obj\Debug\_03.LongestSequenceEqualStrings.pdb

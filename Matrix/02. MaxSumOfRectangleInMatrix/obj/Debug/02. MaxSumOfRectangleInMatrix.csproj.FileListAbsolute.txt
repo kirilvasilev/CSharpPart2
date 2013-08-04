@@ -1,0 +1,6 @@
+D:\Lections\Homework 2 CSharp Part II\02. MaxSumOfRectangleInMatrix\bin\Debug\_02.MaxSumOfRectangleInMatrix.exe.config
+D:\Lections\Homework 2 CSharp Part II\02. MaxSumOfRectangleInMatrix\bin\Debug\_02.MaxSumOfRectangleInMatrix.exe
+D:\Lections\Homework 2 CSharp Part II\02. MaxSumOfRectangleInMatrix\bin\Debug\_02.MaxSumOfRectangleInMatrix.pdb
+D:\Lections\Homework 2 CSharp Part II\02. MaxSumOfRectangleInMatrix\obj\Debug\02. MaxSumOfRectangleInMatrix.csprojResolveAssemblyReference.cache
+D:\Lections\Homework 2 CSharp Part II\02. MaxSumOfRectangleInMatrix\obj\Debug\_02.MaxSumOfRectangleInMatrix.exe
+D:\Lections\Homework 2 CSharp Part II\02. MaxSumOfRectangleInMatrix\obj\Debug\_02.MaxSumOfRectangleInMatrix.pdb

@@ -1,0 +1,6 @@
+D:\Lections\Homework 1 Part II\05. MaxIncreasingSequenceInArray\bin\Debug\_05.MaxIncreasingSequenceInArray.exe.config
+D:\Lections\Homework 1 Part II\05. MaxIncreasingSequenceInArray\bin\Debug\_05.MaxIncreasingSequenceInArray.exe
+D:\Lections\Homework 1 Part II\05. MaxIncreasingSequenceInArray\bin\Debug\_05.MaxIncreasingSequenceInArray.pdb
+D:\Lections\Homework 1 Part II\05. MaxIncreasingSequenceInArray\obj\Debug\05. MaxIncreasingSequenceInArray.csprojResolveAssemblyReference.cache
+D:\Lections\Homework 1 Part II\05. MaxIncreasingSequenceInArray\obj\Debug\_05.MaxIncreasingSequenceInArray.exe
+D:\Lections\Homework 1 Part II\05. MaxIncreasingSequenceInArray\obj\Debug\_05.MaxIncreasingSequenceInArray.pdb

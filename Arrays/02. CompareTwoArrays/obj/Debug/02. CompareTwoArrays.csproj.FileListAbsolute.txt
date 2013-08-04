@@ -1,0 +1,5 @@
+D:\Lections\Homework 1 Part II\02. CompareTwoArrays\bin\Debug\_02.CompareTwoArrays.exe.config
+D:\Lections\Homework 1 Part II\02. CompareTwoArrays\bin\Debug\_02.CompareTwoArrays.exe
+D:\Lections\Homework 1 Part II\02. CompareTwoArrays\bin\Debug\_02.CompareTwoArrays.pdb
+D:\Lections\Homework 1 Part II\02. CompareTwoArrays\obj\Debug\_02.CompareTwoArrays.exe
+D:\Lections\Homework 1 Part II\02. CompareTwoArrays\obj\Debug\_02.CompareTwoArrays.pdb

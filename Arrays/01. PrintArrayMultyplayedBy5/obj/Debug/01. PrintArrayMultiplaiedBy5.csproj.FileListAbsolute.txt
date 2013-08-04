@@ -1,0 +1,6 @@
+D:\Lections\Homework 1 Part II\01. PrintArrayMultyplayedBy5\bin\Debug\_01.PrintArrayMultyplayedBy5.exe.config
+D:\Lections\Homework 1 Part II\01. PrintArrayMultyplayedBy5\bin\Debug\_01.PrintArrayMultyplayedBy5.exe
+D:\Lections\Homework 1 Part II\01. PrintArrayMultyplayedBy5\bin\Debug\_01.PrintArrayMultyplayedBy5.pdb
+D:\Lections\Homework 1 Part II\01. PrintArrayMultyplayedBy5\obj\Debug\01. PrintArrayMultiplaiedBy5.csprojResolveAssemblyReference.cache
+D:\Lections\Homework 1 Part II\01. PrintArrayMultyplayedBy5\obj\Debug\_01.PrintArrayMultyplayedBy5.exe
+D:\Lections\Homework 1 Part II\01. PrintArrayMultyplayedBy5\obj\Debug\_01.PrintArrayMultyplayedBy5.pdb

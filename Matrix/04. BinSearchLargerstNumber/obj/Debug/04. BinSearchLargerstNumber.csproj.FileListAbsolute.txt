@@ -1,0 +1,5 @@
+D:\Lections\Homework 2 CSharp Part II\04. BinSearchLargerstNumber\bin\Debug\_04.BinSearchLargerstNumber.exe.config
+D:\Lections\Homework 2 CSharp Part II\04. BinSearchLargerstNumber\bin\Debug\_04.BinSearchLargerstNumber.exe
+D:\Lections\Homework 2 CSharp Part II\04. BinSearchLargerstNumber\bin\Debug\_04.BinSearchLargerstNumber.pdb
+D:\Lections\Homework 2 CSharp Part II\04. BinSearchLargerstNumber\obj\Debug\_04.BinSearchLargerstNumber.exe
+D:\Lections\Homework 2 CSharp Part II\04. BinSearchLargerstNumber\obj\Debug\_04.BinSearchLargerstNumber.pdb

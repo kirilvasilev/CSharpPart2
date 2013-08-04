@@ -1,0 +1,1 @@
+D:\Lections\Homework 3 CSharp Part II\Methods\07. ReverseDigits\bin\Debug\_07.ReverseDigits.exe.config
